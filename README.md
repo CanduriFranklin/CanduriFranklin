@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm franklindev.doo!</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/CanduriFranklin/CanduriFranklin/blob/main/Navy%20White%20Professional%20LinkedIn%20Banner%20Data%20Analyst%20(2).png?raw=true" alt="Banner" />
+</p>
+
+<!-- Fondo de perfil -->
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <h1 align="center" style="color: #ffffff;">Hi 👋, I'm franklindev.doo!</h1>
+  <h3 align="center" style="color: #ffffff;">A passionate Data Scientist</h3>
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=candurifranklin&label=Profile%20views&color=0e75b6&style=flat" alt="candurifranklin" />
