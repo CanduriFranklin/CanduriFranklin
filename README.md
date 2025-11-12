@@ -6,7 +6,7 @@
 <!-- Profile Header -->
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Franklin Canduri</h1>
-  <h3 align="center" style="color: #ffffff;">Data Scientist | AI Architect | Cloud & DevOps Enthusiast</h3>
+  <h3 align="center" style="color: #ffffff;">Data Sciencie | AI Architect | Cloud & DevOps </h3>
 </div>
 
 <p align="center">
@@ -110,10 +110,8 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-</p>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3
+💡 *My mission is to develop secure, scalable, and resilient AI solutions that combine reliability and accessibility to empower professionals across diverse fields, with a strong focus on healthcare and data science.*
