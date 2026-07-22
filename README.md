@@ -4,7 +4,7 @@
 
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Franklin Canduri</h1>
-  <h3 align="center" style="color: #ffffff;">Data Science | AI Architect | Cloud & DevOps</h3>
+  <h3 align="center" style="color: #ffffff;">Data Science | AI Architect | Cloud & DevOps | AI Engineers</h3>
 </div>
 
 <p align="center">
